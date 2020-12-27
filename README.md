@@ -2,6 +2,8 @@
 
 <!--badges here-->
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f28e8922-a540-4784-b9dd-1d3bd9d3223c/deploy-status)](https://app.netlify.com/sites/pragmaticprogrammertips/deploys)
+
 ## Purpose
 
 The goal was to build a simple tip generator using tips from [The Pragmatic Programmer](https://www.amazon.ca/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FDQN6/ref=sr_1_1?dchild=1&keywords=The+Pragmatic+Programmer%3A+20th+edition&qid=1592235951&s=books&sr=1-1) by David Thomas and Andrew Hunt.
